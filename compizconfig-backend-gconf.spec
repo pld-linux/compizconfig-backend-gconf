@@ -7,7 +7,6 @@ License:	GPL v2+
 Group:		X11/Applications
 Source0:	http://releases.compiz-fusion.org/%{version}/%{name}-%{version}.tar.bz2
 # Source0-md5:	f7a0ec178a3a47c7d087c654eb78f0a5
-#Patch0:		%{name}-am.patch
 URL:		http://forum.compiz-fusion.org/
 BuildRequires:	GConf2-devel >= 2.0
 BuildRequires:	autoconf >= 2.57
