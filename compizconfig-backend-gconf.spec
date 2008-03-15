@@ -18,12 +18,12 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 The gconf backend for CompizConfig. It uses the GConf configuration
-system to store the compiz configuration and provides integration
-into the GNOME desktop environment.
+system to store the compiz configuration and provides integration into
+the GNOME desktop environment.
 
 %description -l pl.UTF-8
 Backend gconf dla CompizConfiga. Używa systemu konfiguracji GConf do
-przechowywania konfiguracji compiza i zapewnia intergrację ze
+przechowywania konfiguracji compiza i zapewnia integrację ze
 środowiskiem GNOME.
 
 %prep
