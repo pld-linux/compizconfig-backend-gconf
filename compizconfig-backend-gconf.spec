@@ -1,12 +1,12 @@
 Summary:	The gconf backend for CompizConfig
 Summary(pl.UTF-8):	Backend gconf dla CompizConfiga
 Name:		compizconfig-backend-gconf
-Version:	0.7.4
+Version:	0.7.6
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications
 Source0:	http://releases.compiz-fusion.org/%{version}/%{name}-%{version}.tar.bz2
-# Source0-md5:	35fb0fb7fd1b6bd092759009872499a8
+# Source0-md5:	977db0774c8379ad2936401c9b66e065
 URL:		http://forum.compiz-fusion.org/
 BuildRequires:	GConf2-devel >= 2.0
 BuildRequires:	autoconf >= 2.57
