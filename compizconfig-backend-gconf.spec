@@ -1,13 +1,13 @@
 Summary:	The gconf backend for CompizConfig
 Summary(pl.UTF-8):	Backend gconf dla CompizConfiga
 Name:		compizconfig-backend-gconf
-Version:	0.8.2
+Version:	0.8.4
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications
-Source0:	http://releases.compiz-fusion.org/%{version}/%{name}-%{version}.tar.bz2
-# Source0-md5:	4be4ef08e811713277077ba89934c332
-URL:		http://forum.compiz-fusion.org/
+Source0:	http://releases.compiz.org/%{version}/%{name}-%{version}.tar.bz2
+# Source0-md5:	3149b45d1099c26735f3b6a91d946b1b
+URL:		http://www.compiz.org/
 BuildRequires:	GConf2-devel >= 2.0
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake >= 1:1.9
